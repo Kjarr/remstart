@@ -17,5 +17,3 @@ WshShell.Run ("wolcmd 4C-CC-6A-0A-8E-8F 172.16.11.30 255.255.252.0 7")
 WScript.sleep 2000
 REM A431
 WshShell.Run ("wolcmd 2C-4d-54-58-32-2C 172.16.11.31 255.255.252.0 7")
-
-
