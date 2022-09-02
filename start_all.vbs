@@ -1,5 +1,5 @@
-dim sout, oFS
-const StdOut = 1
-set oFS = CreateObject("Scripting.FileSystemObject")
-set sout = oFS.GetStandardStream(StdOut)
-sout.Write "Hello World"
+Dim WSHShell
+Set WSHShell = WScript.CreateObject("WScript.Shell")
+WshShell.SendKeys "^{ESC}"
+Set WSHShell = Nothing
+WScript.Quit(0)
