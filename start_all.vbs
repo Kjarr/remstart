@@ -1,5 +1,5 @@
-Set fso = CreateObject ("Scripting.FileSystemObject")
-Set stdout = fso.GetStandardStream (1)
-Set stderr = fso.GetStandardStream (2)
-stdout.WriteLine "This will go to standard output."
-stderr.WriteLine "This will go to error output."
+dim sout, oFS
+const StdOut = 1
+set oFS = CreateObject("Scripting.FileSystemObject")
+set sout = oFS.GetStandardStream(StdOut)
+sout.Write "Hello World"
