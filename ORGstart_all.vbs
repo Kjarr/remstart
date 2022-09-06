@@ -21,20 +21,20 @@ WshShell.Run ("wolcmd 2C-4d-54-58-32-2C 172.16.11.31 255.255.252.0 7")
 REM WScript.sleep 20000 
 
 REM **A426
-REM WshShell.Run ("psexec \\172.16.11.26 -e -h -u 172.16.11.26\CITB -p CITB -i CMD /c c:\CITB\")
+REM WshShell.Run ("psexec \\172.16.11.26 -e -h -u 172.16.11.26\C**B -p W***4 -i CMD /c c:\***\")
 REM WScript.sleep 3000
 REM **A427
-REM WshShell.Run ("psexec \\172.16.11.27 -e -h -u 172.16.11.27\CITB -p CITB -i CMD /c c:\CITB\")
+REM WshShell.Run ("psexec \\172.16.11.27 -e -h -u 172.16.11.27\C**B -p W***4 -i CMD /c c:\***\")
 REM WScript.sleep 3000
 REM **A428
-REM WshShell.Run ("psexec \\172.16.11.28 -e -h -u 172.16.11.28\CITB -p CITB -i CMD /c c:\CITB\")
+REM WshShell.Run ("psexec \\172.16.11.28 -e -h -u 172.16.11.28\C**B -p W***4 -i CMD /c c:\***\")
 REM WScript.sleep 3000
 REM **A429
-REM WshShell.Run ("psexec \\172.16.11.29 -e -h -u 172.16.11.29\CITB -p CITB -i CMD /c c:\CITB\")
+REM WshShell.Run ("psexec \\172.16.11.29 -e -h -u 172.16.11.29\C**B -p W***4 -i CMD /c c:\***\")
 REM WScript.sleep 3000
 REM **A430
-REM WshShell.Run ("psexec \\172.16.11.30 -e -h -u 172.16.11.30\CITB -p CITB -i CMD /c c:\CITB\")
+REM WshShell.Run ("psexec \\172.16.11.30 -e -h -u 172.16.11.30\C**B -p W***4 -i CMD /c c:\CITB\")
 REM WScript.sleep 3000
 REM **A431
-REM WshShell.Run ("psexec \\172.16.11.31 -e -h -u 172.16.11.31\CITB -p CITB -i CMD /c c:\CITB\")
+REM WshShell.Run ("psexec \\172.16.11.31 -e -h -u 172.16.11.31\C**B -p W***4 -i CMD /c c:\CITB\")
 REM WScript.sleep 3000
